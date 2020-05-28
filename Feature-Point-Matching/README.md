@@ -4,6 +4,8 @@ Create an interactive application using feature point matching to:
 3. Display the feature points (using any feature point detector in opencv 4.2)
 4. Recalculate for each frame (using feature point matching / RANSAC) the orientation of the box
 
+Use the pictureframes dataset for the task
+
 Requirements
 1. C++ Compiler
 2. OpenCV for C++
